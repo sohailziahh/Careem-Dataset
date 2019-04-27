@@ -5,4 +5,4 @@ For more info: https://blog.careem.com/en/careems-destination-prediction-service
 
 This was basically an assignment in Artifical Intelligence course. I used Naive Bayes (Multinomial NB) algorithm for destination prediction (classification problem), and predicted on different descriptive features such as pick_up location or time. 
 
-Will use different classification algorithms to see if my choice of descriptive features rerally work. 
+Will use different classification algorithms to see if my choice of descriptive features really work. 
